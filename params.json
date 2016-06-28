@@ -1,0 +1,6 @@
+{
+  "name": "Cuckoo",
+  "tagline": "",
+  "body": "Cuckoo\r\n=========\r\n\r\nPlaying sounds/soundeffects for theather performances or other events \r\n\r\n<img src=\"./screenshot.png\">\r\n\r\nsee it live [@Waldorfschule Eckernförde](http://www.waldorf-eckernfoerde.de/veranstaltungen/veranstaltungsdetails/klassenspiel-12a.html)\r\n\r\n* 1 KB Javascript (ES2015)\r\n* 1 KB Style\r\n* 1 KB HTML\r\n\r\nDependencies\r\n------------\r\n\r\n* modern Browser",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
