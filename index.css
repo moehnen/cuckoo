@@ -19,7 +19,7 @@ body {
     flex: 1;
 }
 
-article {
+section {
     cursor: pointer;
     display: flex;
     flex-direction: column;
@@ -31,7 +31,7 @@ article {
     transition-duration: .3s;
 }
 
-article.active {
+section.active {
     background-color: #9a372f;
 }
 
@@ -55,7 +55,7 @@ menu {
     transition-duration: .3s;
 }
 
-article.active menu {
+section.active menu {
     background-color: #73221b;
 }
 
