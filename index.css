@@ -35,10 +35,6 @@ article.active {
     background-color: #9a372f;
 }
 
-article:hover {
-    transition-duration: 0.2s;
-}
-
 audio::-webkit-media-controls-volume-slider,
 audio::-webkit-media-controls-mute-button {
     display: none;

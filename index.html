@@ -6,13 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Cuckoo</title>
     <link rel="stylesheet" href="index.css">
-      <link rel="stylesheet" href="http://s.mlcdn.co/animate.css">
 </head>
 
 <body>
 
-    <template id="paneltemplate">
-        <article class="" id="{key}" onclick="panelClick(this)">
+    <template id="panel">
+        <article class="" id="{key}" onclick="togglePlaying(this)">
             <menu>
                 <span>{title}</span>
                 <span>{scene}</span>
